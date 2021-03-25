@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,SAAU,CACX,MAGC,WAAY,CAEZ,gBACE,SAAU,CACV,eAAgB","file":"main.8b88c446.chunk.css","sourcesContent":[".title {\n  color: red;\n}\n\n.item {\n  padding: 5px;\n\n  &--selected {\n    color: red;\n    font-weight: 600;\n  }\n}\n"]}
